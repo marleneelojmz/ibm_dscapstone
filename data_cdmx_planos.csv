@@ -1,0 +1,112 @@
+City,Borough,Neighborhood,CP,Latitude,Longitude
+cdmx,miguel hidalgo,Anzures,11590,19.4274716,-99.1771925
+cdmx,miguel hidalgo,Argentina,11230,19.4559586,-99.2035896
+cdmx,miguel hidalgo,Bosque de Chapultepec,11100,19.4218002,-99.1881929
+cdmx,miguel hidalgo,Bosque de las Lomas,11619,19.4073637,-99.2406801
+cdmx,miguel hidalgo,Daniel Garza,11830,19.4102953,-99.1923897
+cdmx,miguel hidalgo,Lago Sur,11460,19.4452848,-99.1883448
+cdmx,miguel hidalgo,Tacuba,11410,19.458901,-99.1871316
+cdmx,miguel hidalgo,Lomas Altas,11950,19.3986479,-99.2313937
+cdmx,miguel hidalgo,Lomas de Chapultepec,11000,19.4187845,-99.2060138
+cdmx,miguel hidalgo,Lomas Hermosa,11200,19.4467982,-99.215051
+cdmx,miguel hidalgo,Mexico Nuevo,11260,19.4524648,-99.2040285
+cdmx,miguel hidalgo,Pensil,11430,19.4465045,-99.1971884
+cdmx,miguel hidalgo,Polanco,11540,19.43353,-99.190915
+cdmx,miguel hidalgo,Popotla,11400,19.4528599,-99.1754624
+cdmx,miguel hidalgo,Reforma Social,11650,19.4261933,-99.2216622
+cdmx,miguel hidalgo,San Miguel Chapultepec,11850,19.4390222,-99.1862075
+cdmx,miguel hidalgo,Santo Tomas,11340,19.4518132,-99.1701506
+cdmx,miguel hidalgo,Tacubaya,11870,19.402049,-99.1874725
+cdmx,miguel hidalgo,Tlaxpana,11370,19.4405954,-99.1692436
+cdmx,cuauhtemoc,Atlampa,6450,19.4567845,-99.1568752
+cdmx,cuauhtemoc,Santa Maria insurgentes,6430,19.4608991,-99.1527122
+cdmx,cuauhtemoc,Peralvillo,6220,19.4538394,-99.130625
+cdmx,cuauhtemoc,Ex-Hipodromo de Peralvillo,6250,19.4567754,-99.1350096
+cdmx,cuauhtemoc,Valle Gomez,6240,19.4586286,-99.125247
+cdmx,cuauhtemoc,Maza,6270,19.4549636,-99.1282072
+cdmx,cuauhtemoc,Nonoalco Tlatelolco,6900,19.4530774,-99.1407804
+cdmx,cuauhtemoc,Morelos,6200,19.4299105,-99.1493726
+cdmx,cuauhtemoc,Guerrero,6300,19.4449101,-99.1451728
+cdmx,cuauhtemoc,Buenavista,6350,19.446167,-99.1526961
+cdmx,cuauhtemoc,Santa Maria la Ribera,6400,19.4484168,-99.1579752
+cdmx,cuauhtemoc,San Rafael,6470,19.4419205,-99.160696
+cdmx,cuauhtemoc,Tabacalera,6030,19.4373743,-99.1542997
+cdmx,cuauhtemoc,Cuauhtemoc,6500,19.4256622,-99.1546449
+cdmx,cuauhtemoc,Juarez,6600,19.4331046,-99.1477097
+cdmx,cuauhtemoc,Roma Norte,6700,19.4183227,-99.1625655
+cdmx,cuauhtemoc,Doctores,6720,19.4214424,-99.14322
+cdmx,cuauhtemoc,Obrera,6800,19.4132002,-99.1440487
+cdmx,cuauhtemoc,Condesa,6140,19.4148639,-99.176429
+cdmx,cuauhtemoc,Hipodromo Condesa,6170,19.4092659,-99.1795821
+cdmx,cuauhtemoc,Hipodromo,6100,19.4092659,-99.1795821
+cdmx,cuauhtemoc,Roma Sur,6760,19.4058335,-99.1633037
+cdmx,cuauhtemoc,Algarin,6880,19.405455,-99.1400863
+cdmx,cuauhtemoc,Transito,6820,19.417473,-99.131537
+cdmx,cuauhtemoc,Ampliacion Asturias,6890,19.407072,-99.131092
+cdmx,benito juarez,Narvarte Poniente,3020,19.3922258,-99.1577068
+cdmx,benito juarez,Narvarte Oriente,3023,19.3932666,-99.1502584
+cdmx,benito juarez,Del Valle norte,3103,19.370241,-99.1567625
+cdmx,benito juarez,Napoles,3810,19.3896634,-99.17380808
+cdmx,benito juarez,Mixcoac,3910,19.3760192,-99.1869673
+cdmx,benito juarez,San Pedro de los pinos,3800,19.3911516,-99.1859103
+cdmx,benito juarez,del valle centro,3100,19.3837691,-99.1669696
+cdmx,benito juarez,del valle sur,3104,19.3861958,-99.1744541
+cdmx,cuauhtemoc,Centro (area 1),6000,19.4318149,-99.1593008
+cdmx,cuauhtemoc,Centro (area 2),6010,19.4318149,-99.1593008
+cdmx,cuauhtemoc,Centro (area 3),6020,19.4316142,-99.1591956
+cdmx,cuauhtemoc,Centro (area 4),6040,19.42817775,-99.12731725
+cdmx,iztacalco,Agrícola Pantitlán,8100,19.4154057,-99.0682465
+cdmx,iztacalco,Agrícola Oriental,8500,19.4045642,-99.0695045
+cdmx,iztacalco,Granjas México,8400,19.4,-99.1
+cdmx,iztacalco,San Pedro,8220,19.3926964,-99.12745533
+cdmx,Álvaro Obregón,Colina del Sur,1430,19.3626036,-99.220552
+cdmx,Álvaro Obregón,El Cuernito,1220,19.3827017,-99.208678
+cdmx,Álvaro Obregón,Florida,1030,19.3572269,-99.1807513
+cdmx,Álvaro Obregón,Jardines del Pedregal,1900,19.3197812,-99.2073801
+cdmx,Álvaro Obregón,Lomas de La Era,1860,19.3256477,-99.2595555
+cdmx,Álvaro Obregón,Lomas de Plateros,1480,19.3664636,-99.1956137
+cdmx,Álvaro Obregón,Lomas de San Ángel Inn,1790,19.3447856,-99.2061455
+cdmx,Álvaro Obregón,San Ángel,1000,19.3448117,-99.20398677
+cdmx,Álvaro Obregón,San Bartolo Ameyalco,1800,19.3286814,-99.2717161
+cdmx,Álvaro Obregón,San Pedro de los Pinos,1180,19.3653,-99.136
+cdmx,Álvaro Obregón,Santa Rosa Xochiac,1830,19.3263625,-99.28753
+cdmx,Álvaro Obregón,Tarango,1588,19.3523052,-99.2485956
+cdmx,Azcapotzalco,El Rosario,2100,19.5043228,-99.1998643
+cdmx,Azcapotzalco,Obrero Popular,2840,19.4640072,-99.1747571
+cdmx,Azcapotzalco,Petrolera,2480,19.4851819,-99.2000075
+cdmx,Azcapotzalco,Santa Catarina,2250,19.4918365,-99.1777146
+cdmx,Azcapotzalco,Santa Cruz Acayucan,2770,19.4757517,-99.1945786
+cdmx,Gustavo A. Madero,Tepetates,7010,19.4935157,-99.1135519
+cdmx,Gustavo A. Madero,Palmatitla,7170,19.5526405,-99.13391025
+cdmx,Gustavo A. Madero,Progreso Nacional,7600,19.5184262,-99.1563715
+cdmx,Gustavo A. Madero,San Juan de Aragón II Sección,7969,19.4787145,-99.0971448
+cdmx,Iztapalapa,Álvaro Obregón,9230,19.3047826,-99.0720837
+cdmx,Iztapalapa,Héroes de Churubusco,9090,19.3675331,-99.1161508
+cdmx,Iztapalapa,Santa Cruz Meyehualco,9290,19.3377228,-99.0431692
+cdmx,Iztapalapa,San Miguel Teotongo Sección Capilla,9630,19.2306,-99.1203
+cdmx,Iztapalapa,Lomas de San Lorenzo,9780,19.3176341,-99.0673789
+cdmx,Iztapalapa,José López Portillo,9920,19.3224904,-99.0574789
+cdmx,Cuajimalpa de Morelos,Lomas de Vista Hermosa,5100,19.3763411,-99.2693225
+cdmx,Cuajimalpa de Morelos,Cuajimalpa,5000,19.3532731,-99.28217963
+cdmx,Cuajimalpa de Morelos,La Venta,5520,19.348925,-99.30661356
+cdmx,Cuajimalpa de Morelos,San Lorenzo Acopilco,5410,19.3317,-99.3278
+cdmx,Cuajimalpa de Morelos,Santa Fe Cuajimalpa,5348,19.3612975,-99.27379492
+cdmx,Venustiano Carranza,Emilio Carranza,15230,19.4493672,-99.1207025
+cdmx,Venustiano Carranza,Revolución,15460,19.4403537,-99.1044893
+cdmx,Venustiano Carranza,Felipe Ángeles,15310,19.4527135,-99.1124658
+cdmx,Venustiano Carranza,Magdalena Mixiuhca,15850,19.4104897,-99.1162475
+cdmx,Venustiano Carranza,General Ignacio Zaragoza,15000,19.4148143,-99.0869793
+cdmx,Coyoacán,Campestre Churubusco,4200,19.35095835,-99.13885741
+cdmx,Coyoacán,Universidad Nacional Autónoma de México,4510,19.32160295,-99.18493018
+cdmx,Coyoacán,Copilco El Alto,4360,19.3360581,-99.1770631
+cdmx,Coyoacán,Olímpica,4710,19.3044491,-99.1701792
+cdmx,Coyoacán,Prados de Coyoacán,4810,19.3412,-99.1487
+cdmx,Tláhuac,Zapotitla,13310,19.45,-99.1
+cdmx,Tláhuac,Santiago Centro,13300,19.25581165,-99.01092482
+cdmx,Tláhuac,Del Mar,13270,19.2871525,-99.05983469
+cdmx,Tláhuac,San Francisco Tlaltenco,13400,19.2998662,-99.02096398
+cdmx,Tláhuac,San Juan,13030,19.2706452,-99.007574
+cdmx,Tláhuac,San Nicolás Tetelco,13700,19.2176228,-98.972601
+cdmx,Xochimilco,San Felipe,16770,19.2557295,-99.0233219
+cdmx,Xochimilco,San Francisco Tlalnepantla,16900,19.1929844,-99.1208893
+cdmx,Xochimilco,Santiago Tepalcatlalpan,16200,19.249188,-99.124952
